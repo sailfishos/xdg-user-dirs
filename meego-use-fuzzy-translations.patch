@@ -1,0 +1,12 @@
+diff -uNr xdg-user-dirs-0.12/po/Makefile.in.in xdg-user-dirs-0.12.new/po/Makefile.in.in
+--- xdg-user-dirs-0.12/po/Makefile.in.in	2010-04-23 11:00:50.000000000 +0800
++++ xdg-user-dirs-0.12.new/po/Makefile.in.in	2010-04-23 11:01:04.000000000 +0800
+@@ -76,6 +76,8 @@
+ 
+ 
+ all: all-@USE_NLS@
++	$(RM) -f *.gmo
++	$(MAKE) update-gmo
+ 
+ all-yes: stamp-po
+ all-no:

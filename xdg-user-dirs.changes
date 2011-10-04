@@ -1,0 +1,48 @@
+* Mon Feb 14 2011 Quanxian Wang <quanxian.wang@intel.com> - 0.12
+- Delete the dependencies on /etc/X11/xinit/xinitrc.d (BMC#13449)
+
+* Wed Aug  4 2010 Yan Li <yan.i.li@intel.com> - 0.12
+- More directories for MeeGo sample media files (BMC#1989)
+
+* Mon Jun 28 2010 Zhang Qiang <qiang.z.zhang@intel.com> - 0.12
+- fix 'use-fuzzy.patch', fix BMC#791, BMC#1262
+
+* Wed Dec 23 2009 Zhang Qiang <qiang.z.zhang@intel.com> - 0.12
+- Update to 0.12
+
+* Thu Jul 9 2009 Arjan van de Ven <arjan@linux.intel.com> 0.10
+- remove the xinitrc.d script, this is now done by uxlaunch natively
+
+* Wed Mar 25 2009 Damien Lespiau <damien.lespiau@intel.com> 0.10
+- xdg-user-dirs-desktop-moblin.patch: there is no Desktop is the
+  new UXL, fallback to Documents.
+
+* Tue Feb 24 2009 Rusty Lynch <rusty.lynch@intel.com> 0.10
+- Pulling in fedora package into Moblin trunk
+
+* Tue Feb 12 2008 Alexander Larsson <alexl@redhat.com> - 0.10-1
+- Update to 0.10 (new translations)
+
+* Tue Aug 21 2007 Alexander Larsson <alexl@redhat.com> - 0.9-1
+- Update to 0.9 (new translations)
+
+* Tue May 29 2007 Matthias Clasen <mclasen@redhat.com> - 0.8-2
+- Fix a possible crash.
+
+* Wed May 16 2007  <alexl@redhat.com> - 0.8-1
+- Update to 0.8, (only) fixing bug that always recreated deleted directories (#240139)
+
+* Wed Apr 11 2007 Alexander Larsson <alexl@redhat.com> - 0.6-1
+- Update to 0.6 (minor fixes)
+
+* Mon Mar 26 2007 Alexander Larsson <alexl@redhat.com> - 0.5-1
+- update to 0.5 (more translations)
+
+* Wed Mar  7 2007 Alexander Larsson <alexl@redhat.com> - 0.4-1
+- Update to 0.4
+
+* Thu Mar  1 2007 Alexander Larsson <alexl@redhat.com> - 0.3-1
+- Update to 0.3
+
+* Fri Feb 23 2007 Alexander Larsson <alexl@redhat.com> - 0.2-1
+- initial version

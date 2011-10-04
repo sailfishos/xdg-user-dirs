@@ -1,0 +1,3528 @@
+More directories for MeeGo sample media files (BMC#1989)
+
+Signed-off-by: Yan Li <yan.i.li@intel.com>
+---
+diff -Nur xdg-user-dirs-0.12/po/af.po xdg-user-dirs-0.12.bmc1989/po/af.po
+--- xdg-user-dirs-0.12/po/af.po	2009-11-05 23:02:28.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/af.po	2010-08-04 15:26:33.000000000 +0800
+@@ -7,10 +7,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2007-06-01 12:00+0200\n"
+ "Last-Translator: Friedel Wolff <friedel BY translate.org.za>\n"
+ "Language-Team: Afrikaans <translate-discuss-af@lists.sourceforge.net>\n"
++"Language: af\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -128,3 +129,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "video's"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/ar.po xdg-user-dirs-0.12.bmc1989/po/ar.po
+--- xdg-user-dirs-0.12/po/ar.po	2009-11-05 23:02:28.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/ar.po	2010-08-04 15:26:33.000000000 +0800
+@@ -7,10 +7,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs.HEAD\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2007-05-17 06:02+0300\n"
+ "Last-Translator: Khaled Hosny <khaledhosny@eglug.org>\n"
+ "Language-Team: Arabic <doc@arabeyes.org>\n"
++"Language: ar\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -131,3 +132,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "فيديو"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/ast.po xdg-user-dirs-0.12.bmc1989/po/ast.po
+--- xdg-user-dirs-0.12/po/ast.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/ast.po	2010-08-04 15:26:33.000000000 +0800
+@@ -7,11 +7,12 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs 0.10\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2008-12-18 08:22+0000\n"
+ "Last-Translator: MARCOS ALVAREZ COSTALES <marcos.alvarez.costales@gmail."
+ "com>\n"
+ "Language-Team: Asturian <https://launchpad.net/~ubuntu-l10n-ast>\n"
++"Language: ast\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -131,3 +132,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "videos"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/be@latin.po xdg-user-dirs-0.12.bmc1989/po/be@latin.po
+--- xdg-user-dirs-0.12/po/be@latin.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/be@latin.po	2010-08-04 15:26:33.000000000 +0800
+@@ -7,11 +7,12 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2007-10-16 03:39+0100\n"
+ "Last-Translator: Ihar Hrachyshka <ihar.hrachyshka@gmail.com>\n"
+ "Language-Team: Belarusian (Latin script) <translation-team-be-latin@lists."
+ "sourceforge.net>\n"
++"Language: \n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -129,3 +130,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "videa"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/be.po xdg-user-dirs-0.12.bmc1989/po/be.po
+--- xdg-user-dirs-0.12/po/be.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/be.po	2010-08-04 15:26:33.000000000 +0800
+@@ -7,10 +7,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs 0.10\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2008-03-19 08:32+0200\n"
+ "Last-Translator: Alexander Nyakhaychyk <nyakhaychyk@gmail.com>\n"
+ "Language-Team: Belarusian <i18n@mova.org>\n"
++"Language: be\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -128,3 +129,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "відэа"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/bg.po xdg-user-dirs-0.12.bmc1989/po/bg.po
+--- xdg-user-dirs-0.12/po/bg.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/bg.po	2010-08-04 15:26:33.000000000 +0800
+@@ -7,10 +7,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs 0.11-pre1\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2009-09-22 10:39+0300\n"
+ "Last-Translator: Alexander Shopov <ash@contact.bg>\n"
+ "Language-Team: Bulgarian <dict@fsa-bg.org>\n"
++"Language: bg\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -127,3 +128,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "видео"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/ca.po xdg-user-dirs-0.12.bmc1989/po/ca.po
+--- xdg-user-dirs-0.12/po/ca.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/ca.po	2010-08-04 15:26:33.000000000 +0800
+@@ -8,10 +8,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs 0.0.4\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2007-03-05 03:37+0100\n"
+ "Last-Translator: Josep Puigdemont <josep.puigdemont@gmail.com>\n"
+ "Language-Team: Catalan <ca@dodds.net>\n"
++"Language: ca\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -129,3 +130,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "vídeos"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/crh.po xdg-user-dirs-0.12.bmc1989/po/crh.po
+--- xdg-user-dirs-0.12/po/crh.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/crh.po	2010-08-04 15:26:33.000000000 +0800
+@@ -7,11 +7,12 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs 0.11-pre1\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2009-10-21 21:53-0600\n"
+ "Last-Translator: Reşat SABIQ <tilde.birlik@gmail.com>\n"
+ "Language-Team: Crimean Tatar (Crimean Turkish) <tilde-birlik-tercime@lists."
+ "sourceforge.net>\n"
++"Language: \n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -131,3 +132,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "videolar"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/cs.po xdg-user-dirs-0.12.bmc1989/po/cs.po
+--- xdg-user-dirs-0.12/po/cs.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/cs.po	2010-08-04 15:26:33.000000000 +0800
+@@ -7,10 +7,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs-0.11-pre1\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2009-09-21 01:14+0200\n"
+ "Last-Translator: Petr Kovar <pknbe@volny.cz>\n"
+ "Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
++"Language: cs\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -127,3 +128,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "videa"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/da.po xdg-user-dirs-0.12.bmc1989/po/da.po
+--- xdg-user-dirs-0.12/po/da.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/da.po	2010-08-04 15:26:33.000000000 +0800
+@@ -6,10 +6,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs-0.10\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2008-06-13 17:54+0100\n"
+ "Last-Translator: Lasse Bang Mikkelsen <lbm@lbm.dk>\n"
+ "Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
++"Language: da\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=utf-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -128,3 +129,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "videoklip"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/de.po xdg-user-dirs-0.12.bmc1989/po/de.po
+--- xdg-user-dirs-0.12/po/de.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/de.po	2010-08-04 15:26:33.000000000 +0800
+@@ -7,10 +7,11 @@
+ msgstr ""
+ "Project-Id-Version: header\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
+-"PO-Revision-Date: 2007-02-27 15:22:+0100\n"
+-"Last-Translator: Hendrik Richter <hendrikr@gnome.org>\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
++"PO-Revision-Date: 2010-07-29 12:16-0800\n"
++"Last-Translator: Clara Steiner-Jay <csteiner@aracnet.com>\n"
+ "Language-Team: German <translation-team-de@lists.sourceforge.net>\n"
++"Language: de\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=utf-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -48,12 +49,10 @@
+ msgstr "downloads"
+ 
+ #: translate.c:6
+-#, fuzzy
+ msgid "Downloads"
+ msgstr "Downloads"
+ 
+ #: translate.c:6
+-#, fuzzy
+ msgid "downloads"
+ msgstr "downloads"
+ 
+@@ -128,3 +127,44 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "videos"
++
++#: translate.c:16
++msgid "Animals"
++msgstr "Tiere"
++
++#: translate.c:16
++msgid "animals"
++msgstr "tiere"
++
++#: translate.c:17
++msgid "Buildings"
++msgstr "Gebäude"
++
++#: translate.c:17
++msgid "buildings"
++msgstr "gebäude"
++
++#: translate.c:18
++msgid "Nature"
++msgstr "Natur"
++
++#: translate.c:18
++msgid "nature"
++msgstr "natur"
++
++#: translate.c:19
++msgid "Party"
++msgstr "Party"
++
++#: translate.c:19
++msgid "party"
++msgstr "party"
++
++#: translate.c:20
++msgid "Views"
++msgstr "Ansichten"
++
++#: translate.c:20
++msgid "views"
++msgstr "ansichten"
++
+diff -Nur xdg-user-dirs-0.12/po/el.po xdg-user-dirs-0.12.bmc1989/po/el.po
+--- xdg-user-dirs-0.12/po/el.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/el.po	2010-08-04 15:26:33.000000000 +0800
+@@ -8,10 +8,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs 0.10\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2009-05-23 19:15+0200\n"
+ "Last-Translator: Simos Xenitellis <simos.lists@googlemail.com>\n"
+ "Language-Team: Greek <team@lists.gnome.gr>\n"
++"Language: el\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=utf-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -129,3 +130,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "βίντεο"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/eo.po xdg-user-dirs-0.12.bmc1989/po/eo.po
+--- xdg-user-dirs-0.12/po/eo.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/eo.po	2010-08-04 15:26:33.000000000 +0800
+@@ -6,10 +6,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs-0.11-pre1\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2009-09-19 20:03-0300\n"
+ "Last-Translator: Felipe Castro <fefcas@gmail.com>\n"
+ "Language-Team: Esperanto <translation-team-eo@lists.sourceforge.net>\n"
++"Language: eo\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -125,3 +126,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "videoj"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/es.po xdg-user-dirs-0.12.bmc1989/po/es.po
+--- xdg-user-dirs-0.12/po/es.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/es.po	2010-08-04 15:26:33.000000000 +0800
+@@ -6,10 +6,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
+-"PO-Revision-Date: 2007-08-13 09:43+0000\n"
+-"Last-Translator: Domingo Becker <domingobecker@gmail.com>\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
++"PO-Revision-Date: 2010-07-29 16:51-0800\n"
++"Last-Translator: Pablo Barbecho <pablo.barbecho@ptiglobal.net>\n"
+ "Language-Team: Spanish <es@li.org>\n"
++"Language: es\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -47,12 +48,10 @@
+ msgstr "descargas"
+ 
+ #: translate.c:6
+-#, fuzzy
+ msgid "Downloads"
+ msgstr "Descargas"
+ 
+ #: translate.c:6
+-#, fuzzy
+ msgid "downloads"
+ msgstr "descargas"
+ 
+@@ -127,3 +126,44 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "videos"
++
++#: translate.c:16
++msgid "Animals"
++msgstr "Animales"
++
++#: translate.c:16
++msgid "animals"
++msgstr "animales"
++
++#: translate.c:17
++msgid "Buildings"
++msgstr "Edificios"
++
++#: translate.c:17
++msgid "buildings"
++msgstr "edificios"
++
++#: translate.c:18
++msgid "Nature"
++msgstr "Naturaleza"
++
++#: translate.c:18
++msgid "nature"
++msgstr "naturaleza"
++
++#: translate.c:19
++msgid "Party"
++msgstr "Fiesta"
++
++#: translate.c:19
++msgid "party"
++msgstr "fiesta"
++
++#: translate.c:20
++msgid "Views"
++msgstr "Paisajes"
++
++#: translate.c:20
++msgid "views"
++msgstr "paisajes"
++
+diff -Nur xdg-user-dirs-0.12/po/et.po xdg-user-dirs-0.12.bmc1989/po/et.po
+--- xdg-user-dirs-0.12/po/et.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/et.po	2010-08-04 15:26:33.000000000 +0800
+@@ -8,10 +8,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2007-11-01 21:39+0300\n"
+ "Last-Translator: Mattias Põldaru <mahfiaz@gmail.com>\n"
+ "Language-Team: Estonian <linux-ee@lists.eenet.ee>\n"
++"Language: et\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=utf-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -129,3 +130,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "videod"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/eu.po xdg-user-dirs-0.12.bmc1989/po/eu.po
+--- xdg-user-dirs-0.12/po/eu.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/eu.po	2010-08-04 15:26:33.000000000 +0800
+@@ -6,10 +6,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs.HEAD\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2008-02-18 17:17+0100\n"
+ "Last-Translator: Iñaki Larrañaga Murgoitio <dooteo@euskalgnu.org>\n"
+ "Language-Team: Basque <translation-team-eu@lists.sourceforge.net>\n"
++"Language: eu\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -129,3 +130,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "bideoak"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/fi.po xdg-user-dirs-0.12.bmc1989/po/fi.po
+--- xdg-user-dirs-0.12/po/fi.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/fi.po	2010-08-04 15:26:33.000000000 +0800
+@@ -7,10 +7,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
+-"PO-Revision-Date: 2007-03-14 12:33+0200\n"
+-"Last-Translator: Ville-Pekka Vainio <vpivaini@cs.helsinki.fi>\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
++"PO-Revision-Date: 2010-07-29 17:10-0800\n"
++"Last-Translator: Clara Steiner-Jay <csteiner@aracnet.com>\n"
+ "Language-Team: Finnish <translation-team-fi@lists.sourceforge.net>\n"
++"Language: fi\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -50,14 +51,12 @@
+ msgstr "lataukset"
+ 
+ #: translate.c:6
+-#, fuzzy
+ msgid "Downloads"
+-msgstr "Lataukset"
++msgstr "Ladattavat tiedostot"
+ 
+ #: translate.c:6
+-#, fuzzy
+ msgid "downloads"
+-msgstr "lataukset"
++msgstr "ladattavat tiedostot"
+ 
+ #: translate.c:7
+ msgid "Movies"
+@@ -130,3 +129,44 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "videot"
++
++#: translate.c:16
++msgid "Animals"
++msgstr "Eläimet"
++
++#: translate.c:16
++msgid "animals"
++msgstr "eläimet"
++
++#: translate.c:17
++msgid "Buildings"
++msgstr "Rakennukset"
++
++#: translate.c:17
++msgid "buildings"
++msgstr "rakennukset"
++
++#: translate.c:18
++msgid "Nature"
++msgstr "Luonto"
++
++#: translate.c:18
++msgid "nature"
++msgstr "luonto"
++
++#: translate.c:19
++msgid "Party"
++msgstr "Juhlat"
++
++#: translate.c:19
++msgid "party"
++msgstr "juhlat"
++
++#: translate.c:20
++msgid "Views"
++msgstr "Maisemat"
++
++#: translate.c:20
++msgid "views"
++msgstr "maisemat"
++
+diff -Nur xdg-user-dirs-0.12/po/fr.po xdg-user-dirs-0.12.bmc1989/po/fr.po
+--- xdg-user-dirs-0.12/po/fr.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/fr.po	2010-08-04 15:26:33.000000000 +0800
+@@ -8,10 +8,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs 0.11-pre1\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
+-"PO-Revision-Date: 2009-09-28 11:05+0200\n"
+-"Last-Translator: Stéphane Raimbault <stephane.raimbault@gmail.com>\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
++"PO-Revision-Date: 2010-07-29 10:16-0800\n"
++"Last-Translator: Martine <martine.landais@intel.com>\n"
+ "Language-Team: French <traduc@traduc.org>\n"
++"Language: fr\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -127,3 +128,44 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "vidéos"
++
++#: translate.c:16
++msgid "Animals"
++msgstr "Animaux"
++
++#: translate.c:16
++msgid "animals"
++msgstr "animaux"
++
++#: translate.c:17
++msgid "Buildings"
++msgstr "Bâtiments"
++
++#: translate.c:17
++msgid "buildings"
++msgstr "bâtiments"
++
++#: translate.c:18
++msgid "Nature"
++msgstr "Nature"
++
++#: translate.c:18
++msgid "nature"
++msgstr "nature"
++
++#: translate.c:19
++msgid "Party"
++msgstr "Fête"
++
++#: translate.c:19
++msgid "party"
++msgstr "fête"
++
++#: translate.c:20
++msgid "Views"
++msgstr "Affichages"
++
++#: translate.c:20
++msgid "views"
++msgstr "affichages"
++
+diff -Nur xdg-user-dirs-0.12/po/ga.po xdg-user-dirs-0.12.bmc1989/po/ga.po
+--- xdg-user-dirs-0.12/po/ga.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/ga.po	2010-08-04 15:26:33.000000000 +0800
+@@ -7,15 +7,16 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs HEAD\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2008-01-21 14:57-0700\n"
+ "Last-Translator: Seán de Búrca <leftmostcat@gmail.com>\n"
+ "Language-Team: Irish <gaeilge-gnulinux@lists.sourceforge.net>\n"
++"Language: ga\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+-"Plural-Forms: nplurals=5; plural=n==1 ? 0 : (n%10==1 || n%10==2) ? 1 : (n%"
+-"10>=3 && n%10<= 6) ? 2 : ((n%10>=7 && n%10<=9) || n==10) ? 3 : 4;\n"
++"Plural-Forms: nplurals=5; plural=n==1 ? 0 : (n%10==1 || n%10==2) ? 1 : (n"
++"%10>=3 && n%10<= 6) ? 2 : ((n%10>=7 && n%10<=9) || n==10) ? 3 : 4;\n"
+ 
+ #: translate.c:2
+ msgid "Applications"
+@@ -130,3 +131,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "físeáin"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/gl.po xdg-user-dirs-0.12.bmc1989/po/gl.po
+--- xdg-user-dirs-0.12/po/gl.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/gl.po	2010-08-04 15:26:33.000000000 +0800
+@@ -7,10 +7,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs-0.10\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2008-08-28 11:20+0100\n"
+ "Last-Translator: Henrique Ferreiro García <henrique.ferreiro@gmail.com>\n"
+ "Language-Team: Galician <proxecto@trasno.net>\n"
++"Language: gl\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -128,3 +129,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "vídeos"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/he.po xdg-user-dirs-0.12.bmc1989/po/he.po
+--- xdg-user-dirs-0.12/po/he.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/he.po	2010-08-04 15:26:33.000000000 +0800
+@@ -6,10 +6,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2008-02-18 03:55+0000\n"
+ "Last-Translator: Yair Herhkovitz <yairhr@gmail.com>\n"
+ "Language-Team: Hebrew <eliz@gnu.org>\n"
++"Language: he\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -127,3 +128,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "וידאו"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/hu.po xdg-user-dirs-0.12.bmc1989/po/hu.po
+--- xdg-user-dirs-0.12/po/hu.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/hu.po	2010-08-04 15:26:33.000000000 +0800
+@@ -8,10 +8,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs 0.11-pre1\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2009-09-19 11:28+0200\n"
+ "Last-Translator: Gabor Kelemen <kelemeng@gnome.hu>\n"
+ "Language-Team: Hungarian <translation-team-hu@lists.sourceforge.net>\n"
++"Language: hu\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -129,3 +130,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "videók"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/id.po xdg-user-dirs-0.12.bmc1989/po/id.po
+--- xdg-user-dirs-0.12/po/id.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/id.po	2010-08-04 15:26:33.000000000 +0800
+@@ -7,10 +7,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs 0.11-pre1\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2009-09-19 12:34-0400\n"
+ "Last-Translator: Andhika Padmawan <andhika.padmawan@gmail.com>\n"
+ "Language-Team: Indonesian <translation-team-id@lists.sourceforge.net>\n"
++"Language: id\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -126,3 +127,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "video"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/is.po xdg-user-dirs-0.12.bmc1989/po/is.po
+--- xdg-user-dirs-0.12/po/is.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/is.po	2010-08-04 15:26:33.000000000 +0800
+@@ -7,10 +7,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs-0.10\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2009-09-03 14:12+0000\n"
+ "Last-Translator: Sveinn í Felli <sveinki@nett.is>\n"
+ "Language-Team: Icelandic <(nothing)>\n"
++"Language: is\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -129,3 +130,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "vídeó"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/it.po xdg-user-dirs-0.12.bmc1989/po/it.po
+--- xdg-user-dirs-0.12/po/it.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/it.po	2010-08-04 15:26:33.000000000 +0800
+@@ -8,10 +8,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs 0.11-pre1\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
+-"PO-Revision-Date: 2009-09-19 10:03+0200\n"
+-"Last-Translator: Luca Ferretti <elle.uca@infinito.it>\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
++"PO-Revision-Date: 2010-07-29 14:20-0800\n"
++"Last-Translator: francesca godani <francesca.godani@ptiglobal.net>\n"
+ "Language-Team: Italian <tp@lists.linux.it>\n"
++"Language: it\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -127,3 +128,44 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "Video"
++
++#: translate.c:16
++msgid "Animals"
++msgstr "Animali"
++
++#: translate.c:16
++msgid "animals"
++msgstr "animali"
++
++#: translate.c:17
++msgid "Buildings"
++msgstr "Edifici"
++
++#: translate.c:17
++msgid "buildings"
++msgstr "edifici"
++
++#: translate.c:18
++msgid "Nature"
++msgstr "natura"
++
++#: translate.c:18
++msgid "nature"
++msgstr "natura"
++
++#: translate.c:19
++msgid "Party"
++msgstr "Party"
++
++#: translate.c:19
++msgid "party"
++msgstr "party"
++
++#: translate.c:20
++msgid "Views"
++msgstr "Panorami"
++
++#: translate.c:20
++msgid "views"
++msgstr "panorami"
++
+diff -Nur xdg-user-dirs-0.12/po/ja.po xdg-user-dirs-0.12.bmc1989/po/ja.po
+--- xdg-user-dirs-0.12/po/ja.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/ja.po	2010-08-04 15:26:33.000000000 +0800
+@@ -6,10 +6,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
+-"PO-Revision-Date: 2007-07-17 12:00-0800\n"
+-"Last-Translator: Google\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
++"PO-Revision-Date: 2010-07-29 17:33-0800\n"
++"Last-Translator: \n"
+ "Language-Team: Japanese <translation-team-ja@lists.sourceforge.net>\n"
++"Language: ja\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -47,12 +48,10 @@
+ msgstr "ダウンロード"
+ 
+ #: translate.c:6
+-#, fuzzy
+ msgid "Downloads"
+ msgstr "ダウンロード"
+ 
+ #: translate.c:6
+-#, fuzzy
+ msgid "downloads"
+ msgstr "ダウンロード"
+ 
+@@ -127,3 +126,44 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "ビデオ"
++
++#: translate.c:16
++msgid "Animals"
++msgstr "動物"
++
++#: translate.c:16
++msgid "animals"
++msgstr "動物"
++
++#: translate.c:17
++msgid "Buildings"
++msgstr "建築物"
++
++#: translate.c:17
++msgid "buildings"
++msgstr "建築物"
++
++#: translate.c:18
++msgid "Nature"
++msgstr "自然"
++
++#: translate.c:18
++msgid "nature"
++msgstr "自然"
++
++#: translate.c:19
++msgid "Party"
++msgstr "パーティー"
++
++#: translate.c:19
++msgid "party"
++msgstr "パーティー"
++
++#: translate.c:20
++msgid "Views"
++msgstr "景色"
++
++#: translate.c:20
++msgid "views"
++msgstr "景色"
++
+diff -Nur xdg-user-dirs-0.12/po/kn.po xdg-user-dirs-0.12.bmc1989/po/kn.po
+--- xdg-user-dirs-0.12/po/kn.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/kn.po	2010-08-04 15:26:33.000000000 +0800
+@@ -8,10 +8,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs-0.10\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2008-04-18 09:39+0530\n"
+ "Last-Translator: Vikram Vincent <vincentvikram@swatantra.org>\n"
+ "Language-Team: Kannada <debian-l10n-kannada@lists.debian.org>\n"
++"Language: kn\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -130,3 +131,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "ವಿಡಿಯೊಗಳು"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/ko.po xdg-user-dirs-0.12.bmc1989/po/ko.po
+--- xdg-user-dirs-0.12/po/ko.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/ko.po	2010-08-04 15:26:33.000000000 +0800
+@@ -6,10 +6,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
+-"PO-Revision-Date: 2007-07-17 12:00-0800\n"
+-"Last-Translator: Google\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
++"PO-Revision-Date: 2010-07-30 09:51-0800\n"
++"Last-Translator: Clara Steiner-Jay <csteiner@aracnet.com>\n"
+ "Language-Team: Korean <translation-team-ko@lists.sourceforge.net>\n"
++"Language: ko\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -47,12 +48,10 @@
+ msgstr "다운로드"
+ 
+ #: translate.c:6
+-#, fuzzy
+ msgid "Downloads"
+ msgstr "다운로드"
+ 
+ #: translate.c:6
+-#, fuzzy
+ msgid "downloads"
+ msgstr "다운로드"
+ 
+@@ -82,11 +81,11 @@
+ 
+ #: translate.c:10
+ msgid "Pictures"
+-msgstr "사진"
++msgstr "그림"
+ 
+ #: translate.c:10
+ msgid "pictures"
+-msgstr "사진"
++msgstr "그림"
+ 
+ #: translate.c:11
+ msgid "Projects"
+@@ -127,3 +126,44 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "비디오"
++
++#: translate.c:16
++msgid "Animals"
++msgstr "동물 "
++
++#: translate.c:16
++msgid "animals"
++msgstr "동물 "
++
++#: translate.c:17
++msgid "Buildings"
++msgstr "빌딩 "
++
++#: translate.c:17
++msgid "buildings"
++msgstr "빌딩 "
++
++#: translate.c:18
++msgid "Nature"
++msgstr "자연 "
++
++#: translate.c:18
++msgid "nature"
++msgstr "자연 "
++
++#: translate.c:19
++msgid "Party"
++msgstr "파티 "
++
++#: translate.c:19
++msgid "party"
++msgstr "파티 "
++
++#: translate.c:20
++msgid "Views"
++msgstr "풍경"
++
++#: translate.c:20
++msgid "views"
++msgstr "풍경"
++
+diff -Nur xdg-user-dirs-0.12/po/ku.po xdg-user-dirs-0.12.bmc1989/po/ku.po
+--- xdg-user-dirs-0.12/po/ku.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/ku.po	2010-08-04 15:26:33.000000000 +0800
+@@ -7,10 +7,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2007-10-13 13:02+0200\n"
+ "Last-Translator: Erdal Ronahi <erdal dot ronahi at gmail dot com>\n"
+ "Language-Team: Kurdish <ubuntu-l10n-kur@lists.ubuntu.com>\n"
++"Language: ku\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -131,3 +132,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "Vîdeo"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/lt.po xdg-user-dirs-0.12.bmc1989/po/lt.po
+--- xdg-user-dirs-0.12/po/lt.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/lt.po	2010-08-04 15:26:33.000000000 +0800
+@@ -6,16 +6,17 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2007-03-22 16:59+0200\n"
+ "Last-Translator: Gintautas Miliauskas <gintas@akl.lt>\n"
+ "Language-Team: Lithuanian <komp_lt@konferencijos.lt>\n"
++"Language: lt\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+ "X-Generator: KBabel 1.11.4\n"
+-"Plural-Forms:  nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%"
+-"100<10 || n%100>=20) ? 1 : 2);\n"
++"Plural-Forms:  nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
++"%100<10 || n%100>=20) ? 1 : 2);\n"
+ 
+ #: translate.c:2
+ msgid "Applications"
+@@ -130,3 +131,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "video"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/lv.po xdg-user-dirs-0.12.bmc1989/po/lv.po
+--- xdg-user-dirs-0.12/po/lv.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/lv.po	2010-08-04 15:26:33.000000000 +0800
+@@ -6,10 +6,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs-0.10\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2009-04-12 16:20+0300\n"
+ "Last-Translator: Rihards Prieditis <RPrieditis@inbox.lv>\n"
+ "Language-Team: Latvian <translation-team-lv@lists.sourceforge.net>\n"
++"Language: lv\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -130,3 +131,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "video"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/mk.po xdg-user-dirs-0.12.bmc1989/po/mk.po
+--- xdg-user-dirs-0.12/po/mk.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/mk.po	2010-08-04 15:26:33.000000000 +0800
+@@ -8,10 +8,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2007-05-23 23:43+0200\n"
+ "Last-Translator: Arangel Angov <ufo@linux.net.mk>\n"
+ "Language-Team: Macedonian <ossm-members@hedona.on.net.mk>\n"
++"Language: mk\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -130,3 +131,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "видеа"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/nb.po xdg-user-dirs-0.12.bmc1989/po/nb.po
+--- xdg-user-dirs-0.12/po/nb.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/nb.po	2010-08-04 15:26:33.000000000 +0800
+@@ -7,10 +7,11 @@
+ msgstr ""
+ "Project-Id-Version: nb\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2007-08-16 11:15+0200\n"
+ "Last-Translator: Karl Ove Hufthammer <karl@huftis.org>\n"
+ "Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
++"Language: \n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -130,3 +131,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "videoklipp"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/nl.po xdg-user-dirs-0.12.bmc1989/po/nl.po
+--- xdg-user-dirs-0.12/po/nl.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/nl.po	2010-08-04 15:26:33.000000000 +0800
+@@ -7,10 +7,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs-0.11-pre1\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
+-"PO-Revision-Date: 2009-09-24 08:11+0800\n"
+-"Last-Translator: Tino Meinen <tino.meinen@gmail.com>\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
++"PO-Revision-Date: 2010-07-29 20:23-0800\n"
++"Last-Translator: GLS_NLD <albert.dijkstra@ptiglobal.net>\n"
+ "Language-Team: Dutch <vertaling@vrijschrift.org>\n"
++"Language: nl\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -129,3 +130,44 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "video's"
++
++#: translate.c:16
++msgid "Animals"
++msgstr "Dieren"
++
++#: translate.c:16
++msgid "animals"
++msgstr "dieren"
++
++#: translate.c:17
++msgid "Buildings"
++msgstr "Gebouwen"
++
++#: translate.c:17
++msgid "buildings"
++msgstr "gebouwen"
++
++#: translate.c:18
++msgid "Nature"
++msgstr "Natuur"
++
++#: translate.c:18
++msgid "nature"
++msgstr "natuur"
++
++#: translate.c:19
++msgid "Party"
++msgstr "Feestelijk"
++
++#: translate.c:19
++msgid "party"
++msgstr "feestelijk"
++
++#: translate.c:20
++msgid "Views"
++msgstr "Uitzichten"
++
++#: translate.c:20
++msgid "views"
++msgstr "uitzichten"
++
+diff -Nur xdg-user-dirs-0.12/po/nn.po xdg-user-dirs-0.12.bmc1989/po/nn.po
+--- xdg-user-dirs-0.12/po/nn.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/nn.po	2010-08-04 15:26:33.000000000 +0800
+@@ -7,10 +7,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2007-08-16 11:03+0200\n"
+ "Last-Translator: Karl Ove Hufthammer <karl@huftis.org>\n"
+ "Language-Team: Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>\n"
++"Language: nn\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -130,3 +131,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "videoklipp"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/pa.po xdg-user-dirs-0.12.bmc1989/po/pa.po
+--- xdg-user-dirs-0.12/po/pa.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/pa.po	2010-08-04 15:26:33.000000000 +0800
+@@ -7,10 +7,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2007-02-27 04:43+0530\n"
+ "Last-Translator: A S Alam <aalam@users.sf.net>\n"
+ "Language-Team: Punjabi <punjabi-l10n@lists.sf.net>\n"
++"Language: pa\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -130,3 +131,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "ਵੀਡਿਓ"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/pl.po xdg-user-dirs-0.12.bmc1989/po/pl.po
+--- xdg-user-dirs-0.12/po/pl.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/pl.po	2010-08-04 15:26:33.000000000 +0800
+@@ -7,10 +7,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs 0.11-pre1\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
+-"PO-Revision-Date: 2009-09-19 13:30+0100\n"
+-"Last-Translator: Michał Trzebiatowski <hippie_1968@hotmail.com>\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
++"PO-Revision-Date: 2010-07-29 17:50-0800\n"
++"Last-Translator: Clara Steiner-Jay <csteiner@aracnet.com>\n"
+ "Language-Team: Polish <translation-team-pl@lists.sourceforge.net>\n"
++"Language: pl\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -128,3 +129,44 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "wideo"
++
++#: translate.c:16
++msgid "Animals"
++msgstr "Zwierzęta"
++
++#: translate.c:16
++msgid "animals"
++msgstr "zwierzęta"
++
++#: translate.c:17
++msgid "Buildings"
++msgstr "Budynki"
++
++#: translate.c:17
++msgid "buildings"
++msgstr "budynki"
++
++#: translate.c:18
++msgid "Nature"
++msgstr "Natura "
++
++#: translate.c:18
++msgid "nature"
++msgstr "natura "
++
++#: translate.c:19
++msgid "Party"
++msgstr "Impreza"
++
++#: translate.c:19
++msgid "party"
++msgstr "impreza"
++
++#: translate.c:20
++msgid "Views"
++msgstr "Podgląd"
++
++#: translate.c:20
++msgid "views"
++msgstr "podgląd"
++
+diff -Nur xdg-user-dirs-0.12/po/POTFILES xdg-user-dirs-0.12.bmc1989/po/POTFILES
+--- xdg-user-dirs-0.12/po/POTFILES	1970-01-01 08:00:00.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/POTFILES	2010-08-04 15:26:33.000000000 +0800
+@@ -0,0 +1 @@
++     ../translate.c
+diff -Nur xdg-user-dirs-0.12/po/ps.po xdg-user-dirs-0.12.bmc1989/po/ps.po
+--- xdg-user-dirs-0.12/po/ps.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/ps.po	2010-08-04 15:26:33.000000000 +0800
+@@ -6,10 +6,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs-0.10\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2008-07-01 14:04-0800\n"
+ "Last-Translator: Zabeeh Khan <zabeehkhan@gmail.com>\n"
+ "Language-Team: Pashto <pathanisation@googlegroups.com>\n"
++"Language: ps\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=utf-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -129,3 +130,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "ليديزې"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/pt_BR.po xdg-user-dirs-0.12.bmc1989/po/pt_BR.po
+--- xdg-user-dirs-0.12/po/pt_BR.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/pt_BR.po	2010-08-04 15:26:33.000000000 +0800
+@@ -7,10 +7,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
+-"PO-Revision-Date: 2007-08-04 19:32-0300\n"
+-"Last-Translator: Evandro Fernandes Giovanini <efgiovanini@gmail.com>\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
++"PO-Revision-Date: 2010-07-30 08:55-0800\n"
++"Last-Translator: GLSPTB_Gabor <bechtg@gmail.com>\n"
+ "Language-Team: Brazilian Portuguese <ldp-br@bazar.conectiva.com.br>\n"
++"Language: pt_BR\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -48,14 +49,12 @@
+ msgstr "download"
+ 
+ #: translate.c:6
+-#, fuzzy
+ msgid "Downloads"
+-msgstr "Download"
++msgstr "Downloads"
+ 
+ #: translate.c:6
+-#, fuzzy
+ msgid "downloads"
+-msgstr "download"
++msgstr "downloads"
+ 
+ #: translate.c:7
+ msgid "Movies"
+@@ -128,3 +127,44 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "vídeos"
++
++#: translate.c:16
++msgid "Animals"
++msgstr "Animais"
++
++#: translate.c:16
++msgid "animals"
++msgstr "animais"
++
++#: translate.c:17
++msgid "Buildings"
++msgstr "Prédios"
++
++#: translate.c:17
++msgid "buildings"
++msgstr "prédios"
++
++#: translate.c:18
++msgid "Nature"
++msgstr "Natureza"
++
++#: translate.c:18
++msgid "nature"
++msgstr "natureza"
++
++#: translate.c:19
++msgid "Party"
++msgstr "Festa"
++
++#: translate.c:19
++msgid "party"
++msgstr "festa"
++
++#: translate.c:20
++msgid "Views"
++msgstr "Vistas"
++
++#: translate.c:20
++msgid "views"
++msgstr "vistas"
++
+diff -Nur xdg-user-dirs-0.12/po/pt.po xdg-user-dirs-0.12.bmc1989/po/pt.po
+--- xdg-user-dirs-0.12/po/pt.po	2009-11-05 23:02:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/pt.po	2010-08-04 15:26:33.000000000 +0800
+@@ -6,10 +6,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2007-03-06 23:25+0100\n"
+ "Last-Translator: Duarte Loreto <happyguy_pt@hotmail.com>\n"
+ "Language-Team: Portuguese <translation-team-pt@lists.sourceforge.net>\n"
++"Language: pt\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -127,3 +128,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "vídeos"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/ru.po xdg-user-dirs-0.12.bmc1989/po/ru.po
+--- xdg-user-dirs-0.12/po/ru.po	2009-11-05 23:02:30.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/ru.po	2010-08-04 15:26:33.000000000 +0800
+@@ -6,10 +6,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
+-"PO-Revision-Date: 2007-07-17 12:00-0800\n"
+-"Last-Translator: Google\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
++"PO-Revision-Date: 2010-07-29 16:28-0800\n"
++"Last-Translator: Clara Steiner-Jay <csteiner@aracnet.com>\n"
+ "Language-Team: Russian <gnu@mx.ru>\n"
++"Language: ru\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -47,12 +48,10 @@
+ msgstr "загрузки"
+ 
+ #: translate.c:6
+-#, fuzzy
+ msgid "Downloads"
+ msgstr "Загрузки"
+ 
+ #: translate.c:6
+-#, fuzzy
+ msgid "downloads"
+ msgstr "загрузки"
+ 
+@@ -127,3 +126,44 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "видео"
++
++#: translate.c:16
++msgid "Animals"
++msgstr "Животные"
++
++#: translate.c:16
++msgid "animals"
++msgstr "животные"
++
++#: translate.c:17
++msgid "Buildings"
++msgstr "Здания"
++
++#: translate.c:17
++msgid "buildings"
++msgstr "здания"
++
++#: translate.c:18
++msgid "Nature"
++msgstr "Природа"
++
++#: translate.c:18
++msgid "nature"
++msgstr "природа"
++
++#: translate.c:19
++msgid "Party"
++msgstr "Вечеринка"
++
++#: translate.c:19
++msgid "party"
++msgstr "вечеринка"
++
++#: translate.c:20
++msgid "Views"
++msgstr "Виды"
++
++#: translate.c:20
++msgid "views"
++msgstr "виды"
++
+diff -Nur xdg-user-dirs-0.12/po/sk.po xdg-user-dirs-0.12.bmc1989/po/sk.po
+--- xdg-user-dirs-0.12/po/sk.po	2009-11-05 23:02:30.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/sk.po	2010-08-04 15:26:33.000000000 +0800
+@@ -7,10 +7,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2007-11-07 11:27+0100\n"
+ "Last-Translator: Pavol Šimo <palo.simo@post.sk>\n"
+ "Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
++"Language: sk\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -128,3 +129,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "video"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/sl.po xdg-user-dirs-0.12.bmc1989/po/sl.po
+--- xdg-user-dirs-0.12/po/sl.po	2009-11-05 23:02:30.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/sl.po	2010-08-04 15:26:33.000000000 +0800
+@@ -6,10 +6,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs 0.11-pre1\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2008-10-24 16:34+0200\n"
+ "Last-Translator: Benno Schulenberg <bensberg@justemail.net>\n"
+ "Language-Team: Slovene <translation-team-sl@lists.sourceforge.net>\n"
++"Language: \n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -129,3 +130,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "video"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/sq.po xdg-user-dirs-0.12.bmc1989/po/sq.po
+--- xdg-user-dirs-0.12/po/sq.po	2009-11-05 23:02:30.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/sq.po	2010-08-04 15:26:33.000000000 +0800
+@@ -8,10 +8,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs HEAD\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2008-03-14 11:20+0100\n"
+ "Last-Translator: Laurent Dhima <laurenti@alblinux.net>\n"
+ "Language-Team: Albanian <translation-team-sq@lists.sourceforge.net>\n"
++"Language: sq\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -130,3 +131,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "video"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/sr@Latn.po xdg-user-dirs-0.12.bmc1989/po/sr@Latn.po
+--- xdg-user-dirs-0.12/po/sr@Latn.po	2009-11-05 23:02:30.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/sr@Latn.po	2010-08-04 15:26:33.000000000 +0800
+@@ -9,10 +9,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2007-02-27 18:26+0100\n"
+ "Last-Translator: Danilo Šegan <danilo@gnome.org>\n"
+ "Language-Team: Serbian (sr) <gnom@prevod.org>\n"
++"Language: \n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -132,3 +133,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "video"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/sr.po xdg-user-dirs-0.12.bmc1989/po/sr.po
+--- xdg-user-dirs-0.12/po/sr.po	2009-11-05 23:02:30.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/sr.po	2010-08-04 15:26:33.000000000 +0800
+@@ -6,10 +6,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2007-02-27 18:26+0100\n"
+ "Last-Translator: Данило Шеган <danilo@gnome.org>\n"
+ "Language-Team: Serbian <gnom@prevod.org>\n"
++"Language: sr\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -129,3 +130,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "видео"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/sv.po xdg-user-dirs-0.12.bmc1989/po/sv.po
+--- xdg-user-dirs-0.12/po/sv.po	2009-11-05 23:02:30.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/sv.po	2010-08-04 15:26:33.000000000 +0800
+@@ -8,10 +8,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs 0.11-pre1\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
+-"PO-Revision-Date: 2009-09-19 10:12+0100\n"
+-"Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
++"PO-Revision-Date: 2010-07-29 16:31-0800\n"
++"Last-Translator: Anna-Lena Schon <anna.schon@live.se>\n"
+ "Language-Team: Swedish <tp-sv@listor.tp-sv.se>\n"
++"Language: sv\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -127,3 +128,44 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "video"
++
++#: translate.c:16
++msgid "Animals"
++msgstr "Djur"
++
++#: translate.c:16
++msgid "animals"
++msgstr "djur"
++
++#: translate.c:17
++msgid "Buildings"
++msgstr "Byggnader"
++
++#: translate.c:17
++msgid "buildings"
++msgstr "byggnader"
++
++#: translate.c:18
++msgid "Nature"
++msgstr "Natur"
++
++#: translate.c:18
++msgid "nature"
++msgstr "natur"
++
++#: translate.c:19
++msgid "Party"
++msgstr "Party"
++
++#: translate.c:19
++msgid "party"
++msgstr "party"
++
++#: translate.c:20
++msgid "Views"
++msgstr "Vy"
++
++#: translate.c:20
++msgid "views"
++msgstr "vy"
++
+diff -Nur xdg-user-dirs-0.12/po/th.po xdg-user-dirs-0.12.bmc1989/po/th.po
+--- xdg-user-dirs-0.12/po/th.po	2009-11-05 23:02:30.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/th.po	2010-08-04 15:26:33.000000000 +0800
+@@ -7,10 +7,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2008-01-28 21:04+0700\n"
+ "Last-Translator: Theppitak Karoonboonyanan <thep@linux.thai.net>\n"
+ "Language-Team: Thai <translation-team-th@lists.sourceforge.net>\n"
++"Language: th\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -128,3 +129,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "วีดิทัศน์"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/tr.po xdg-user-dirs-0.12.bmc1989/po/tr.po
+--- xdg-user-dirs-0.12/po/tr.po	2009-11-05 23:02:30.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/tr.po	2010-08-04 15:26:33.000000000 +0800
+@@ -7,10 +7,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2007-02-27 15:22:+0100\n"
+ "Last-Translator: Baris Cicek <baris@teamforce.name.tr>\n"
+ "Language-Team: Turkish <gnome-turk@gnome.org>\n"
++"Language: tr\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=utf-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -128,3 +129,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "videolar"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/uk.po xdg-user-dirs-0.12.bmc1989/po/uk.po
+--- xdg-user-dirs-0.12/po/uk.po	2009-11-05 23:02:30.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/uk.po	2010-08-04 15:26:33.000000000 +0800
+@@ -7,10 +7,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2007-07-17 12:00-0800\n"
+ "Last-Translator: Maxim Dziumanenko <dziumanenko@gmail.com>\n"
+ "Language-Team: Ukrainian <translation-team-uk@lists.sourceforge.net>\n"
++"Language: uk\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -128,3 +129,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "відео"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/vi.po xdg-user-dirs-0.12.bmc1989/po/vi.po
+--- xdg-user-dirs-0.12/po/vi.po	2009-11-05 23:02:30.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/vi.po	2010-08-04 15:26:33.000000000 +0800
+@@ -7,10 +7,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs 0.11-pre1\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2009-09-19 16:51+0930\n"
+ "Last-Translator: Clytie Siddall <clytie@riverland.net.au>\n"
+ "Language-Team: Vietnamese <vi-VN@googlegroups.com>\n"
++"Language: vi\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -128,3 +129,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "ảnh động"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/xdg-user-dirs.pot xdg-user-dirs-0.12.bmc1989/po/xdg-user-dirs.pot
+--- xdg-user-dirs-0.12/po/xdg-user-dirs.pot	2009-11-05 23:02:28.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/xdg-user-dirs.pot	2010-08-04 15:26:33.000000000 +0800
+@@ -8,10 +8,11 @@
+ msgstr ""
+ "Project-Id-Version: PACKAGE VERSION\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+ "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+ "Language-Team: LANGUAGE <LL@li.org>\n"
++"Language: \n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=CHARSET\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -127,3 +128,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr ""
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/zh_CN.po xdg-user-dirs-0.12.bmc1989/po/zh_CN.po
+--- xdg-user-dirs-0.12/po/zh_CN.po	2009-11-05 23:02:30.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/zh_CN.po	2010-08-04 15:26:33.000000000 +0800
+@@ -8,11 +8,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs 0.11-pre1\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
+-"PO-Revision-Date: 2009-10-04 10:24+0800\n"
+-"Last-Translator: Aron Xu <happyaron.xu@gmail.com>\n"
+-"Language-Team: Chinese (simplified) <translation-team-zh-cn@lists."
+-"sourceforge.net>\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
++"PO-Revision-Date: 2010-07-30 09:55-0800\n"
++"Last-Translator: mackey tian <mackeyx.tian@ptiglobal.net>\n"
++"Language-Team: Chinese (simplified) <translation-team-zh-cn@lists.sourceforge.net>\n"
++"Language: zh_CN\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -128,3 +128,44 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "视频"
++
++#: translate.c:16
++msgid "Animals"
++msgstr "动物"
++
++#: translate.c:16
++msgid "animals"
++msgstr "动物"
++
++#: translate.c:17
++msgid "Buildings"
++msgstr "建筑"
++
++#: translate.c:17
++msgid "buildings"
++msgstr "建筑"
++
++#: translate.c:18
++msgid "Nature"
++msgstr "大自然"
++
++#: translate.c:18
++msgid "nature"
++msgstr "大自然"
++
++#: translate.c:19
++msgid "Party"
++msgstr "聚会"
++
++#: translate.c:19
++msgid "party"
++msgstr "聚会"
++
++#: translate.c:20
++msgid "Views"
++msgstr "风光"
++
++#: translate.c:20
++msgid "views"
++msgstr "风光"
++
+diff -Nur xdg-user-dirs-0.12/po/zh_HK.po xdg-user-dirs-0.12.bmc1989/po/zh_HK.po
+--- xdg-user-dirs-0.12/po/zh_HK.po	2009-11-05 23:02:30.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/zh_HK.po	2010-08-04 15:26:33.000000000 +0800
+@@ -6,10 +6,11 @@
+ msgstr ""
+ "Project-Id-Version: xdg-user-dirs \n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
+ "PO-Revision-Date: 2007-02-28 03:27+0800\n"
+ "Last-Translator: Abel Cheung <abel@oaka.org>\n"
+ "Language-Team: Chinese (Hong Kong) <community@linuxhall.org>\n"
++"Language: zh_HK\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -127,3 +128,43 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "影片"
++
++#: translate.c:16
++msgid "Animals"
++msgstr ""
++
++#: translate.c:16
++msgid "animals"
++msgstr ""
++
++#: translate.c:17
++msgid "Buildings"
++msgstr ""
++
++#: translate.c:17
++msgid "buildings"
++msgstr ""
++
++#: translate.c:18
++msgid "Nature"
++msgstr ""
++
++#: translate.c:18
++msgid "nature"
++msgstr ""
++
++#: translate.c:19
++msgid "Party"
++msgstr ""
++
++#: translate.c:19
++msgid "party"
++msgstr ""
++
++#: translate.c:20
++msgid "Views"
++msgstr ""
++
++#: translate.c:20
++msgid "views"
++msgstr ""
+diff -Nur xdg-user-dirs-0.12/po/zh_TW.po xdg-user-dirs-0.12.bmc1989/po/zh_TW.po
+--- xdg-user-dirs-0.12/po/zh_TW.po	2009-11-05 23:02:30.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/po/zh_TW.po	2010-08-04 15:26:33.000000000 +0800
+@@ -4,12 +4,13 @@
+ #
+ msgid ""
+ msgstr ""
+-"Project-Id-Version: xdg-user-dirs \n"
++"Project-Id-Version: xdg-user-dirs\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2009-11-05 16:02+0100\n"
+-"PO-Revision-Date: 2007-02-28 03:27+0800\n"
+-"Last-Translator: Abel Cheung <abel@oaka.org>\n"
++"POT-Creation-Date: 2010-07-29 10:19+0800\n"
++"PO-Revision-Date: 2010-07-30 10:35-0800\n"
++"Last-Translator: Clara Steiner-Jay <csteiner@aracnet.com>\n"
+ "Language-Team: Chinese (traditional) <zh-l10n@linux.org.tw>\n"
++"Language: zh_TW\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+@@ -47,12 +48,10 @@
+ msgstr "下載"
+ 
+ #: translate.c:6
+-#, fuzzy
+ msgid "Downloads"
+ msgstr "下載"
+ 
+ #: translate.c:6
+-#, fuzzy
+ msgid "downloads"
+ msgstr "下載"
+ 
+@@ -127,3 +126,44 @@
+ #: translate.c:15
+ msgid "videos"
+ msgstr "影片"
++
++#: translate.c:16
++msgid "Animals"
++msgstr "動物"
++
++#: translate.c:16
++msgid "animals"
++msgstr "動物"
++
++#: translate.c:17
++msgid "Buildings"
++msgstr "建築物"
++
++#: translate.c:17
++msgid "buildings"
++msgstr "建築物"
++
++#: translate.c:18
++msgid "Nature"
++msgstr "大自然"
++
++#: translate.c:18
++msgid "nature"
++msgstr "大自然"
++
++#: translate.c:19
++msgid "Party"
++msgstr "派對"
++
++#: translate.c:19
++msgid "party"
++msgstr "派對"
++
++#: translate.c:20
++msgid "Views"
++msgstr "風景"
++
++#: translate.c:20
++msgid "views"
++msgstr "風景"
++
+diff -Nur xdg-user-dirs-0.12/translate.c xdg-user-dirs-0.12.bmc1989/translate.c
+--- xdg-user-dirs-0.12/translate.c	2009-10-07 17:42:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/translate.c	2010-08-04 15:26:13.000000000 +0800
+@@ -13,4 +13,9 @@
+   _("Share"),  _("share"),
+   _("Templates"), _("templates"),
+   _("Videos"), _("videos"),   
++  _("Animals"), _("animals"),   
++  _("Buildings"), _("buildings"),   
++  _("Nature"), _("nature"),   
++  _("Party"), _("party"),   
++  _("Views"), _("views"),   
+ };
+diff -Nur xdg-user-dirs-0.12/user-dirs.defaults xdg-user-dirs-0.12.bmc1989/user-dirs.defaults
+--- xdg-user-dirs-0.12/user-dirs.defaults	2009-10-07 17:42:29.000000000 +0800
++++ xdg-user-dirs-0.12.bmc1989/user-dirs.defaults	2010-08-04 15:26:21.000000000 +0800
+@@ -10,6 +10,11 @@
+ MUSIC=Music
+ PICTURES=Pictures
+ VIDEOS=Videos
++PICANIMALS=Pictures/Animals
++PICBUILDINGS=Pictures/Buildings
++PICNATURE=Pictures/Nature
++PICPARTY=Pictures/Party
++PICVIEWS=Pictures/Views
+ # Another alternative is:
+ #MUSIC=Documents/Music
+ #PICTURES=Documents/Pictures

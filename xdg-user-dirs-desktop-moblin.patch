@@ -1,0 +1,12 @@
+diff -uNr xdg-user-dirs-0.12/user-dirs.defaults xdg-user-dirs-0.12.new/user-dirs.defaults
+--- xdg-user-dirs-0.12/user-dirs.defaults	2009-10-07 17:42:29.000000000 +0800
++++ xdg-user-dirs-0.12.new/user-dirs.defaults	2009-12-23 14:06:47.000000000 +0800
+@@ -2,7 +2,7 @@
+ #
+ # The values are relative pathnames from the home directory and
+ # will be translated on a per-path-element basis into the users locale
+-DESKTOP=Desktop
++DESKTOP=Documents
+ DOWNLOAD=Downloads
+ TEMPLATES=Templates
+ PUBLICSHARE=Public
