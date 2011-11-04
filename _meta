@@ -1,8 +1,0 @@
-<package project="Mer:Trunk:Base" name="xdg-user-dirs">
-  <title>Handles user special directories</title>
-  <description>Contains xdg-user-dirs-update that updates folders in a users
-homedirectory based on the defaults configured by the administrator.
-
-</description>
-  <url>http://www.freedesktop.org/wiki/Software/xdg-user-dirs</url>
-</package>
