@@ -1,0 +1,22 @@
+Name: xdg-user-dirs
+Summary: Handles user special directories
+Version: 0.14
+Release: 1
+Group: User Interface/Desktops
+License: GPL
+URL: http://www.freedesktop.org/wiki/Software/xdg-user-dirs
+Sources:
+    - http://user-dirs.freedesktop.org/releases/%{name}-%{version}.tar.gz
+Patches:
+    - use-fuzzy.patch
+    - meego-use-fuzzy-translations.patch
+Description: |
+    Contains xdg-user-dirs-update that updates folders in a users
+    homedirectory based on the defaults configured by the administrator.
+
+PkgBR:
+    - gettext
+LocaleName: "%name"
+
+AutoSubPackages:
+    - lang

@@ -1,3 +1,11 @@
+* Mon Feb 20 2012 Marko Saukko <marko.saukko@gmail.com> - 0.14
+- Update to version 0.14
+- Dropped non mer related patches:
+  - meego-bmc1989-new-picture-names-for-meego-sample-media.patch
+  - xdg-user-dirs-desktop-moblin.patch
+- Dropped upstreamed patch typo.patch
+- Added .yaml for spectacle.
+
 * Mon Feb 14 2011 Quanxian Wang <quanxian.wang@intel.com> - 0.12
 - Delete the dependencies on /etc/X11/xinit/xinitrc.d (BMC#13449)
 
