@@ -10,7 +10,7 @@ Summary:    Handles user special directories
 Version:    0.14
 Release:    1
 Group:      User Interface/Desktops
-License:    GPL
+License:    GPLv2
 URL:        http://www.freedesktop.org/wiki/Software/xdg-user-dirs
 Source0:    http://user-dirs.freedesktop.org/releases/%{name}-%{version}.tar.gz
 Source100:  xdg-user-dirs.yaml
