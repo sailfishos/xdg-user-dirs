@@ -30,7 +30,7 @@ Development files for %{name}
 %patch1 -p1
 
 %build
-./autogen.sh
+NOCONFIGURE=1 ./autogen.sh
 %configure --disable-static --disable-documentation
 make %{?jobs:-j%jobs}
 
