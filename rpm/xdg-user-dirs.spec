@@ -46,8 +46,8 @@ rm %{buildroot}/etc/xdg/autostart/xdg-user-dirs.desktop
 %defattr(-,root,root,-)
 %doc COPYING
 %{_bindir}/*
-%config(noreplace) %{_sysconfdir}/xdg/user-dirs.conf
-%config(noreplace) %{_sysconfdir}/xdg/user-dirs.defaults
+%config %{_sysconfdir}/xdg/user-dirs.conf
+%config %{_sysconfdir}/xdg/user-dirs.defaults
 
 %files lang
 %defattr(-,root,root,-)
