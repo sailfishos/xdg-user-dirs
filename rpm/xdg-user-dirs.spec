@@ -1,13 +1,10 @@
 Name:       xdg-user-dirs
 Summary:    Handles user special directories
-Version:    0.16
+Version:    0.17
 Release:    1
-Group:      User Interface/Desktops
 License:    GPLv2
 URL:        http://www.freedesktop.org/wiki/Software/xdg-user-dirs
 Source0:    %{name}-%{version}.tar.gz
-Patch0:     use-fuzzy.patch
-Patch1:     meego-use-fuzzy-translations.patch
 BuildRequires:  gettext
 
 %description
@@ -16,23 +13,17 @@ homedirectory based on the defaults configured by the administrator.
 
 %package lang
 Summary:    Development files for %{name}
-Group:      Development/Libraries
 Requires:   %{name} = %{version}-%{release}
 %description lang
 Development files for %{name}
 
 %prep
-%setup -q -n %{name}-%{version}/%{name}
-
-# use-fuzzy.patch
-%patch0 -p1
-# meego-use-fuzzy-translations.patch
-%patch1 -p1
+%autosetup -p1 -n %{name}-%{version}/%{name}
 
 %build
 NOCONFIGURE=1 ./autogen.sh
 %configure --disable-static --disable-documentation
-make %{?jobs:-j%jobs}
+%make_build
 
 %install
 rm -rf %{buildroot}
@@ -44,7 +35,7 @@ rm %{buildroot}/etc/xdg/autostart/xdg-user-dirs.desktop
 
 %files -f %name.lang
 %defattr(-,root,root,-)
-%doc COPYING
+%license COPYING
 %{_bindir}/*
 %config %{_sysconfdir}/xdg/user-dirs.conf
 %config %{_sysconfdir}/xdg/user-dirs.defaults
