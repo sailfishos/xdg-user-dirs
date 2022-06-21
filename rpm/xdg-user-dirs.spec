@@ -4,7 +4,7 @@ Version:    0.16
 Release:    1
 Group:      User Interface/Desktops
 License:    GPLv2
-URL:        http://www.freedesktop.org/wiki/Software/xdg-user-dirs
+URL:        https://github.com/sailfishos/xdg-user-dirs
 Source0:    %{name}-%{version}.tar.gz
 Patch0:     use-fuzzy.patch
 Patch1:     meego-use-fuzzy-translations.patch
