@@ -3,7 +3,7 @@ Summary:    Handles user special directories
 Version:    0.17
 Release:    1
 License:    GPLv2
-URL:        http://www.freedesktop.org/wiki/Software/xdg-user-dirs
+URL:        https://github.com/sailfishos/xdg-user-dirs
 Source0:    %{name}-%{version}.tar.gz
 BuildRequires:  gettext
 
